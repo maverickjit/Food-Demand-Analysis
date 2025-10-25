@@ -1,0 +1,18 @@
+# Python / Backend
+/Backend/venv/
+/Backend/__pycache__/
+/Backend/artifacts/
+*.pyc
+
+# Data files (Too large for Git)
+*.csv
+
+# Node / Frontend
+/food-demand-frontend/node_modules/
+/food-demand-frontend/dist/
+npm-debug.log
+
+# OS / Editor files
+.DS_Store
+.vscode/
+*.log
